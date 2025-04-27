@@ -1,0 +1,48 @@
+
+html{
+
+	height: 145vh;
+}
+
+#text_cu1{
+	font-weight: bold;
+
+  }
+  .form-container1 {
+		  text-align: left;
+		  	 
+	  }
+	  label{
+
+		color: black;
+		
+	  }
+	  
+
+	  .stu{
+
+		text-align: center;
+		color: rgb(117, 30, 175);
+	  }
+
+	  .stu_sign{
+
+
+		color: aliceblue;
+		
+	  }
+
+
+	  .teach{
+		text-align: center;
+		color:rgb(198, 12, 80);
+
+	  }
+	  
+	  .tea_sign{
+
+		color: aliceblue; 
+		
+	  }
+
+	

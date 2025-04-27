@@ -1,0 +1,32 @@
+
+body {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+   background-color: rgb(39, 168, 255);
+    background-size: 400% 400%;
+}
+
+.container{
+    position: absolute;
+          top: 75px; 
+          left: 2%;
+    height: 30pc;
+    width: 70pc;
+    border-radius: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+          max-width: 90%;
+          margin: 0 auto;
+          text-align: left;
+
+        position: absolute;
+        left: 2%;
+        top: 15%;
+        border-radius: 10px;
+
+      }
+
+
+
+    

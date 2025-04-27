@@ -1,0 +1,27 @@
+
+body {
+  position: relative;
+  color: #777;
+  font-family: "Segoe Script", sans-serif;
+  font-size: max(20px, 4vw);
+  font-weight: 500;
+  width: 100vw;
+  min-height: 100vh;
+  text-align: center;
+  line-height: 1;
+  overflow-x: hidden;
+  
+}
+ 
+#text_cu{
+  font-weight: bold;
+
+}
+.form-container {
+        text-align: left;
+       
+    }
+    label{
+
+      color: black;
+    }
